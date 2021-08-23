@@ -1,0 +1,299 @@
+
+ esto es una prueba 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ esto es una prueba 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [INFO] No se encontraron nuevos usuarios para agregar. 13
+ esto es una prueba 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [INFO] No se encontraron nuevos usuarios para agregar. 13
+ esto es una prueba 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [INFO] No se encontraron nuevos usuarios para agregar. 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [INFO] No se encontraron nuevos usuarios para agregar. 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [INFO] No se encontraron nuevos usuarios para agregar. 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [DEBUG] Se cargaron 9 nuevos usuarios. 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [DEBUG] Se cargaron 9 nuevos usuarios. 13
+ [INFO] No existen nuevos usuarios para actualizar. 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [DEBUG] Se cargaron 9 nuevos usuarios. 13
+ [INFO] No existen nuevos usuarios para actualizar. 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [DEBUG] Se cargaron 9 nuevos usuarios. 13
+ [INFO] Se actualizaron correctamente 1 usuarios. 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [DEBUG] Se cargaron 9 nuevos usuarios. 13
+ [INFO] Se actualizaron correctamente 1 usuarios. 13
+ [DEBUG] Connection to DB Succesfully 13
+ [DEBUG] CSV leído correctamente 13
+ [INFO] No se encontraron nuevos usuarios para agregar. 13
+ [INFO] No existen nuevos usuarios para actualizar. 13
+ [DEBUG] Connection to DB Succesfully 16
+ [DEBUG] CSV leído correctamente 16
+ [DEBUG] Se cargaron 71 nuevos usuarios. 16
+ [INFO] No existen nuevos usuarios para actualizar. 16
+ [DEBUG] Connection to DB Succesfully 16
+ [DEBUG] CSV leído correctamente 16
+ [DEBUG] Se cargaron 61 nuevos usuarios. 16
+ [INFO] Se actualizaron correctamente 3 usuarios. 16
+ [DEBUG] Connection to DB Succesfully 16-8-2021 11:3:29.825
+ [DEBUG] CSV leído correctamente 16-8-2021 11:3:29.825
+ [INFO] No se encontraron nuevos usuarios para agregar. 16-8-2021 11:3:29.825
+ [INFO] Se actualizaron correctamente 2 usuarios. 16-8-2021 11:3:29.825
+ [DEBUG] Connection to DB Succesfully 16-8-2021 11:16:49.3
+ [DEBUG] CSV leído correctamente 16-8-2021 11:16:49.3
+ [INFO] No se encontraron nuevos usuarios para agregar. 16-8-2021 11:16:49.3
+ [INFO] Se actualizaron correctamente 2 usuarios. 16-8-2021 11:16:49.3
+ [DEBUG] Connection to DB Succesfully 16-8-2021 11:19:54.373
+ [DEBUG] CSV leído correctamente 16-8-2021 11:19:54.373
+ [INFO] No se encontraron nuevos usuarios para agregar. 16-8-2021 11:19:54.373
+ [INFO] No existen nuevos usuarios para actualizar. 16-8-2021 11:19:54.373
+ [DEBUG] Connection to DB Succesfully 16-8-2021 11:20:28.98
+ [DEBUG] CSV leído correctamente 16-8-2021 11:20:28.98
+ [INFO] No se encontraron nuevos usuarios para agregar. 16-8-2021 11:20:28.98
+ [INFO] No existen nuevos usuarios para actualizar. 16-8-2021 11:20:28.98
+ [ERROR] No se puede conectar al API en auth.js 18-8-2021 11:29:16.517
+ [INFO] Key obtenida correctamente 18-8-2021 12:9:20.745
+ [INFO] Key obtenida correctamente 18-8-2021 12:10:11.113
+ [INFO] Key obtenida correctamente 18-8-2021 12:11:55.965
+ [INFO] Key obtenida correctamente 18-8-2021 14:37:17.721
+ [INFO] Key obtenida correctamente 18-8-2021 14:39:9.268
+ [INFO] Key obtenida correctamente 18-8-2021 14:46:11.257
+ [INFO] Key obtenida correctamente 18-8-2021 14:59:4.168
+ [INFO] Key obtenida correctamente 18-8-2021 15:1:15.802
+ [INFO] Key obtenida correctamente 18-8-2021 15:11:2.671
+ [INFO] Key obtenida correctamente 18-8-2021 15:19:20.742
+ [DEBUG] Connection to DB Succesfully 18-8-2021 16:12:40.930
+ [DEBUG] Connection to DB Succesfully 18-8-2021 16:13:53.184
+ [DEBUG] CSV leído correctamente 18-8-2021 16:13:53.184
+ [DEBUG] Connection to DB Succesfully 18-8-2021 16:18:11.567
+ [DEBUG] CSV leído correctamente 18-8-2021 16:18:11.567
+ [INFO] Key obtenida correctamente 18-8-2021 16:30:56.373
+ [INFO] Key obtenida correctamente 18-8-2021 16:31:52.34
+ [DEBUG] Connection to DB Succesfully 18-8-2021 16:44:12.602
+ [DEBUG] CSV leído correctamente 18-8-2021 16:44:12.602
+ [INFO] Key obtenida correctamente 18-8-2021 16:44:12.602
+ [INFO] Se importaron 5483 contactos 18-8-2021 16:44:12.602
+ [DEBUG] Se cargaron 30 nuevos usuarios. 18-8-2021 16:44:12.602
+ [DEBUG] Connection to DB Succesfully 18-8-2021 16:56:59.224
+ [DEBUG] CSV leído correctamente 18-8-2021 16:56:59.224
+ [INFO] Key obtenida correctamente 18-8-2021 16:56:59.224
+ [INFO] Se importaron 5483 contactos 18-8-2021 16:56:59.224
+ [DEBUG] Se cargaron 30 nuevos usuarios. 18-8-2021 16:56:59.224
+ [ERROR] Respuesta de servidor 401 18-8-2021 17:33:16.885
+ [ERROR] No se puede conectar al API en auth.js 18-8-2021 17:33:16.885
+ [ERROR] No se puede conectar al API en auth.js 18-8-2021 17:40:59.708
+ [ERROR] undefined 18-8-2021 17:41:39.997
+ [ERROR] No se puede conectar al API en auth.js 18-8-2021 17:41:39.997
+ [ERROR]  401 18-8-2021 17:44:8.623
+ [ERROR] No se puede conectar al API en auth.js 18-8-2021 17:44:8.623
+ [INFO] Key obtenida correctamente 18-8-2021 17:45:40.371
+ [INFO] Key obtenida correctamente 18-8-2021 17:47:34.560
+ [INFO] Key obtenida correctamente 18-8-2021 17:48:16.395
+ [INFO] Key obtenida correctamente 18-8-2021 18:4:1.672
+ [ERROR] No se puede conectar al API en auth.js 18-8-2021 18:4:1.672
+ [INFO] Key obtenida correctamente 18-8-2021 18:5:24.259
+ [INFO] Key obtenida correctamente 18-8-2021 18:5:51.196
+ [ERROR] Status de response 401 19-8-2021 10:36:52.81
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 10:36:52.81
+ [ERROR] Status de response 401 19-8-2021 10:43:2.462
+ [ERROR] El usuario o la contraseña no es correcta. 19-8-2021 10:43:2.462
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 10:43:2.462
+ [ERROR] Status de response 401 19-8-2021 10:45:50.365
+ [ERROR] El usuario o la contraseña no es correcta. 19-8-2021 10:45:50.365
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 10:45:50.365
+ [ERROR] Status de response [401] 19-8-2021 10:49:11.711
+ [ERROR] Aplicación no encontrada, por favor contacte al administrador. 19-8-2021 10:49:11.711
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 10:49:11.711
+ [INFO] Key obtenida correctamente 19-8-2021 10:51:49.644
+ [INFO] Key obtenida correctamente 19-8-2021 10:52:26.988
+ [INFO] Key obtenida correctamente 19-8-2021 11:9:59.166
+ [INFO] Key obtenida correctamente 19-8-2021 11:15:54.195
+ [INFO] Key obtenida correctamente 19-8-2021 11:18:30.570
+ [INFO] Key obtenida correctamente 19-8-2021 11:18:30.570
+ [ERROR] [401] No se pudo obtener los contactos 19-8-2021 11:18:30.570
+ [APImsj] This service needs an Authorization Header 19-8-2021 11:18:30.570
+ [INFO] Key obtenida correctamente 19-8-2021 11:21:34.999
+ [INFO] Key obtenida correctamente 19-8-2021 11:21:34.999
+ [INFO] Se importaron 5483 contactos 19-8-2021 11:21:34.999
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 14:47:25.338
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 14:47:25.338
+ [DEBUG] Connection to DB Succesfully 19-8-2021 14:50:58.263
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 14:50:58.263
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 14:50:58.263
+ [DEBUG] CSV leído correctamente 19-8-2021 14:50:58.263
+ [ERROR] No se pudo cargar nuevos usuarios a DB 19-8-2021 14:50:58.263
+ [DEBUG] Connection to DB Succesfully 19-8-2021 14:56:48.592
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 14:56:48.592
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 14:56:48.592
+ [DEBUG] CSV leído correctamente 19-8-2021 14:56:48.592
+ [INFO] No se encontraron nuevos usuarios para agregar. 19-8-2021 14:56:48.592
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 15:14:6.67
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 15:14:6.67
+ [DEBUG] CSV leído correctamente 19-8-2021 15:14:6.67
+ [INFO] No se encontraron nuevos usuarios para agregar. 19-8-2021 15:14:6.67
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 15:38:30.96
+ [ERROR] No se puede conectar al API en auth.js 19-8-2021 15:38:30.96
+ [DEBUG] CSV leído correctamente 19-8-2021 15:38:30.96
+ [ERROR] No se pudo cargar nuevos usuarios a DB 19-8-2021 15:38:30.96
+ [INFO] Key obtenida correctamente 19-8-2021 15:46:3.627
+ [INFO] Key obtenida correctamente 19-8-2021 15:46:3.627
+ [INFO] Se importaron 5483 contactos 19-8-2021 15:46:3.627 [INFO] Key obtenida correctamente 19-8-2021 15:50:51.236
+ [INFO] Se importaron 100 contactos 19-8-2021 15:50:51.236
+ [INFO] Key obtenida correctamente 19-8-2021 16:27:58.963
+ [INFO] Se importaron 5483 contactos 19-8-2021 16:27:58.963
+ [DEBUG] CSV leído correctamente 19-8-2021 16:55:49.596
+ [INFO] Key obtenida correctamente 19-8-2021 16:55:49.596
+ [ERROR] No se pudo cargar nuevos usuarios a DB 19-8-2021 16:55:49.596
+ [DEBUG] CSV leído correctamente 19-8-2021 17:16:1.172
+ [INFO] Key obtenida correctamente 19-8-2021 17:16:1.172
+ [ERROR] No se pudo importar los contactos 19-8-2021 17:16:1.172
+ [DEBUG] CSV leído correctamente 19-8-2021 17:27:1.870
+ [INFO] Key obtenida correctamente 19-8-2021 17:27:1.870
+ [ERROR] No se pudo importar los contactos 19-8-2021 17:27:1.870
+ [DEBUG] CSV leído correctamente 19-8-2021 17:48:31.427
+ [INFO] Key obtenida correctamente 19-8-2021 17:48:31.427
+ [INFO] Key obtenida correctamente 19-8-2021 17:48:31.427
+ [INFO] Key obtenida correctamente 19-8-2021 17:48:31.427
+ [INFO] Key obtenida correctamente 19-8-2021 17:48:31.427
+ [INFO] Key obtenida correctamente 19-8-2021 17:48:31.427
+ [DEBUG] CSV leído correctamente 19-8-2021 17:52:15.505
+ [INFO] Key obtenida correctamente 19-8-2021 17:52:15.505
+ [ERROR] No se pudo importar los contactos 19-8-2021 17:52:15.505
+ [DEBUG] CSV leído correctamente 19-8-2021 17:55:4.173
+ [INFO] Key obtenida correctamente 19-8-2021 17:55:4.173
+ [ERROR] No se pudo importar los contactos 19-8-2021 17:55:4.173
+ [ERROR] Status de response [401] 20-8-2021 10:41:44.867
+ [APImsj] Aplicación no encontrada, por favor contacte al administrador. 20-8-2021 10:41:44.867
+ [ERROR] No se puede conectar al API en auth.js 20-8-2021 10:41:44.867
+ [INFO] Key obtenida correctamente 20-8-2021 10:44:43.884
+ [INFO] Key obtenida correctamente 20-8-2021 12:15:47.801
+ [INFO] Se importaron 200 contactos 20-8-2021 12:15:47.801
+ [INFO] Key obtenida correctamente 20-8-2021 12:17:3.229
+ [INFO] Se importaron 200 contactos 20-8-2021 12:17:3.229
+ [DEBUG] CSV leído correctamente 20-8-2021 14:47:29.153
+ [INFO] Key obtenida correctamente 20-8-2021 14:47:29.153
+ [INFO] Se importaron 200 contactos 20-8-2021 14:47:29.153
+ [DEBUG] Se cargaron 40 nuevos usuarios. 20-8-2021 14:47:29.153
+ [DEBUG] CSV leído correctamente 20-8-2021 15:1:54.414
+ [INFO] Key obtenida correctamente 20-8-2021 15:1:54.414
+ [INFO] Se importaron 5483 contactos 20-8-2021 15:1:54.414
+ [DEBUG] Se cargaron 30 nuevos usuarios. 20-8-2021 15:1:54.414
+ [INFO] Key obtenida correctamente 20-8-2021 15:40:34.100
+ [ERROR] [401] No se pudo obtener los contactos 20-8-2021 15:40:34.100
+ [APImsj] This service needs an Authorization Header 20-8-2021 15:40:34.100
+ [ERROR] No se puede conectar al API en auth.js 20-8-2021 15:43:18.322
+ [ERROR] No se pudo importar los contactos 20-8-2021 15:43:18.322
+ [INFO] Key obtenida correctamente 20-8-2021 16:40:59.968
+ [INFO] Se importaron 183 contactos 20-8-2021 16:40:59.968
+ [DEBUG] CSV leído correctamente 20-8-2021 16:43:11.168
+ [INFO] Key obtenida correctamente 20-8-2021 16:43:11.168
+ [INFO] Key obtenida correctamente 20-8-2021 16:43:11.168
+ [INFO] Se importaron 183 contactos 20-8-2021 16:43:11.168
+ [INFO] Se importaron 183 contactos 20-8-2021 16:43:11.168
+ [INFO] No existen usuarios para actualizar. 20-8-2021 16:43:11.168
+ [DEBUG] CSV leído correctamente 20-8-2021 16:46:22.777
+ [INFO] Key obtenida correctamente 20-8-2021 16:46:22.777
+ [INFO] Se importaron 183 contactos 20-8-2021 16:46:22.777
+ [INFO] No existen usuarios para actualizar. 20-8-2021 16:46:22.777
+ [DEBUG] CSV leído correctamente 20-8-2021 16:47:30.527
+ [INFO] Key obtenida correctamente 20-8-2021 16:47:30.527
+ [INFO] Se importaron 183 contactos 20-8-2021 16:47:30.527
+ [INFO] No existen usuarios para actualizar. 20-8-2021 16:47:30.527
+ [DEBUG] CSV leído correctamente 20-8-2021 17:3:22.595
+ [INFO] Key obtenida correctamente 20-8-2021 17:3:22.595
+ [INFO] Se importaron 183 contactos 20-8-2021 17:3:22.595
+ [DEBUG] CSV leído correctamente 20-8-2021 17:6:33.387
+ [INFO] Key obtenida correctamente 20-8-2021 17:6:33.387
+ [INFO] Se importaron 83 contactos 20-8-2021 17:6:33.387
+ [DEBUG] CSV leído correctamente 20-8-2021 17:16:57.480
+ [INFO] Key obtenida correctamente 20-8-2021 17:16:57.480
+ [INFO] Se importaron 83 contactos 20-8-2021 17:16:57.480
+ [INFO] No existen usuarios para actualizar. 20-8-2021 17:16:57.480
+ [DEBUG] CSV leído correctamente 20-8-2021 17:19:59.268
+ [INFO] Key obtenida correctamente 20-8-2021 17:19:59.268
+ [INFO] Se importaron 83 contactos 20-8-2021 17:19:59.268
+ [INFO] No existen usuarios para actualizar. 20-8-2021 17:19:59.268
+ [DEBUG] CSV leído correctamente 20-8-2021 17:23:8.687
+ [INFO] Key obtenida correctamente 20-8-2021 17:23:8.687
+ [INFO] Se importaron 83 contactos 20-8-2021 17:23:8.687
+ [INFO] No se encontraron nuevos usuarios para agregar. 20-8-2021 17:23:8.687
+ [DEBUG] CSV leído correctamente 20-8-2021 17:27:12.174
+ [INFO] Key obtenida correctamente 20-8-2021 17:27:12.174
+ [INFO] Se importaron 83 contactos 20-8-2021 17:27:12.174
+ [DEBUG] CSV leído correctamente 20-8-2021 17:27:51.722
+ [INFO] Key obtenida correctamente 20-8-2021 17:27:51.722
+ [INFO] Se importaron 83 contactos 20-8-2021 17:27:51.722
+ [DEBUG] CSV leído correctamente 20-8-2021 17:30:19.977
+ [INFO] Key obtenida correctamente 20-8-2021 17:30:19.977
+ [INFO] Se importaron 83 contactos 20-8-2021 17:30:19.977
+ [DEBUG] CSV leído correctamente 20-8-2021 17:35:40.229
+ [INFO] Key obtenida correctamente 20-8-2021 17:35:40.229
+ [INFO] Se importaron 83 contactos 20-8-2021 17:35:40.229
+ [DEBUG] CSV leído correctamente 20-8-2021 17:36:43.879
+ [INFO] Key obtenida correctamente 20-8-2021 17:36:43.879
+ [INFO] Se importaron 83 contactos 20-8-2021 17:36:43.879
+ [DEBUG] CSV leído correctamente 20-8-2021 17:38:15.693
+ [INFO] Key obtenida correctamente 20-8-2021 17:38:15.693
+ [INFO] Se importaron 83 contactos 20-8-2021 17:38:15.693
+ [INFO] No existen usuarios para actualizar. 20-8-2021 17:38:15.693
+ [ERROR] No se pudo actualizar los usuarios en DB 20-8-2021 17:38:15.693
+ [DEBUG] CSV leído correctamente 20-8-2021 17:39:51.497
+ [INFO] Key obtenida correctamente 20-8-2021 17:39:51.497
+ [INFO] Se importaron 83 contactos 20-8-2021 17:39:51.497
+ [INFO] No existen usuarios para actualizar. 20-8-2021 17:39:51.497
+ [DEBUG] CSV leído correctamente 20-8-2021 17:40:33.815
+ [INFO] Key obtenida correctamente 20-8-2021 17:40:33.815
+ [INFO] Se importaron 83 contactos 20-8-2021 17:40:33.815
+ [INFO] No existen usuarios para actualizar. 20-8-2021 17:40:33.815
+ [DEBUG] CSV leído correctamente 20-8-2021 17:44:1.367
+ [INFO] Key obtenida correctamente 20-8-2021 17:44:1.367
+ [INFO] Se importaron 83 contactos 20-8-2021 17:44:1.367
+ [INFO] Se actualizaron correctamente 1 usuarios. 20-8-2021 17:44:1.367
+ [DEBUG] CSV leído correctamente 20-8-2021 17:45:44.168
+ [INFO] Key obtenida correctamente 20-8-2021 17:45:44.168
+ [INFO] Se importaron 83 contactos 20-8-2021 17:45:44.168
+ [INFO] Se actualizaron correctamente 1 usuarios. 20-8-2021 17:45:44.168
+ [DEBUG] CSV leído correctamente 20-8-2021 17:46:42.779
+ [INFO] Key obtenida correctamente 20-8-2021 17:46:42.779
+ [INFO] Se importaron 83 contactos 20-8-2021 17:46:42.779
+ [INFO] No existen usuarios para actualizar. 20-8-2021 17:46:42.779
+ [DEBUG] CSV leído correctamente 20-8-2021 17:47:26.225
+ [INFO] Key obtenida correctamente 20-8-2021 17:47:26.225
+ [INFO] Se importaron 83 contactos 20-8-2021 17:47:26.225
+ [INFO] Se actualizaron correctamente 1 usuarios. 20-8-2021 17:47:26.225
+ [DEBUG] CSV leído correctamente 20-8-2021 17:51:53.416
+ [INFO] Key obtenida correctamente 20-8-2021 17:51:53.416
+ [INFO] Se importaron 83 contactos 20-8-2021 17:51:53.416
+ [INFO] Se actualizaron correctamente 1 usuarios. 20-8-2021 17:51:53.416
+ [DEBUG] CSV leído correctamente 20-8-2021 17:54:47.382
+ [INFO] Key obtenida correctamente 20-8-2021 17:54:47.382
+ [INFO] Se importaron 83 contactos 20-8-2021 17:54:47.382
+ [INFO] Se actualizaron correctamente 6 usuarios. 20-8-2021 17:54:47.382
+ [DEBUG] CSV leído correctamente 20-8-2021 17:56:52.362
+ [INFO] Key obtenida correctamente 20-8-2021 17:56:52.362
+ [INFO] Se importaron 83 contactos 20-8-2021 17:56:52.362
+ [INFO] Se actualizaron correctamente 6 usuarios. 20-8-2021 17:56:52.362
+ [DEBUG] CSV leído correctamente 20-8-2021 17:58:11.347
+ [INFO] Key obtenida correctamente 20-8-2021 17:58:11.347
+ [INFO] Se importaron 83 contactos 20-8-2021 17:58:11.347
+ [INFO] Se actualizaron correctamente 6 usuarios. 20-8-2021 17:58:11.347
+ [DEBUG] CSV leído correctamente 20-8-2021 17:58:49.402
+ [INFO] Key obtenida correctamente 20-8-2021 17:58:49.402
+ [INFO] Se importaron 83 contactos 20-8-2021 17:58:49.402
+ [INFO] Se actualizaron correctamente 6 usuarios. 20-8-2021 17:58:49.402
