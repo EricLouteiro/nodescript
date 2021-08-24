@@ -5,8 +5,8 @@ const { writeLog } = require('../createLogs');
 
 const agent = new https.Agent({ rejectUnauthorized: false });
 
-const urlInsert = 'https://helpdesk.ande.gov.py/HelpDesk/apiv1/InsertContact';
-const urlUpdate = 'https://helpdesk.ande.gov.py/HelpDesk/apiv1/UpdateContact';
+const urlInsert = '';
+const urlUpdate = '';
 
 const insertContacts = async (newUser) => {
     try {
