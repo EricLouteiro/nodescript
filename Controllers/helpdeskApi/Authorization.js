@@ -3,15 +3,15 @@ const https = require('https');
 const { URLSearchParams }  = require('url');
 const { writeLog } = require('../createLogs');
 
-const URL = 'https://helpdesk.ande.gov.py/HelpDesk/oauth/access_token';
+const URL = '';
 
 const agent = new https.Agent({ rejectUnauthorized: false });
 const params = new URLSearchParams();
 
-params.append('username', 'api@ande');
-params.append('client_id', '51507d0c6a714f54bb23375c5eb4cabc');
+params.append('username', '');
+params.append('client_id', '');
 params.append('scope', 'FullControl');
-params.append('password', '12345');
+params.append('', '');
 
 const options = {
     method: 'post',
@@ -48,10 +48,3 @@ const auth = async () => {
 module.exports = { auth };
 
 
-// let usrAdmin = {
-//     username: 'api@ande',
-//     client_id: '51507d0c6a714f54bb23375c5eb4cabc',
-//     scope: 'FullControl',
-//     password: '1234'
-// }
-// const params = new FormData(usrAdmin);
