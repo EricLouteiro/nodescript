@@ -16,37 +16,6 @@ const jsonData = async (csvFile) => {
     }
 }
 
-const APIFormat = (arr) => {
-    const toSendFormat = [];
-
-    for (i = 0; i < arr.length; i++) {
-        toSendFormat.push(
-            {
-                ContactId: arr[i].userId,
-                ContactFirstName: arr[i].name,
-                ContactLastName: arr[i].lastname,
-                ContactEMail: arr[i].email,
-                ContactPhone: '',
-                ContactMobile: '',
-                ContactPhoto: '',
-                ContactUnwanted: false,
-                DynamicFields: [
-                    {
-                        DynamicFieldId: '',
-                        DynamicFieldname: '',
-                        DynamicFieldType: '',
-                        DynamicFieldValue: ''
-                    }
-                ]
-            }
-
-
-        )
-
-    }
-    return toSendFormat;
-
-}
 
 
 module.exports = { jsonData, APIFormat };
