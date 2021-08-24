@@ -5,7 +5,7 @@ const { writeLog } = require('../createLogs');
 
 const agent = new https.Agent({ rejectUnauthorized: false });
 
-const URL = 'https://helpdesk.ande.gov.py/HelpDesk/apiv1/GetAllContact.svc/rest/';
+const URL = '';
 
 const sleep = (delay) => new Promise((resolve)=>setTimeout(resolve, delay));
 
